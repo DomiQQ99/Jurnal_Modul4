@@ -1,0 +1,15 @@
+D:\Jurnal Mod 4\Jurnal Mod 4\obj\Debug\net8.0\Jurnal Mod 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jurnal Mod 4\Jurnal Mod 4\obj\Debug\net8.0\Jurnal Mod 4.AssemblyInfoInputs.cache
+D:\Jurnal Mod 4\Jurnal Mod 4\obj\Debug\net8.0\Jurnal Mod 4.AssemblyInfo.cs
+D:\Jurnal Mod 4\Jurnal Mod 4\obj\Debug\net8.0\Jurnal Mod 4.csproj.CoreCompileInputs.cache
+D:\Jurnal Mod 4\Jurnal Mod 4\obj\Debug\net8.0\Jurnal Mod 4.sourcelink.json
+D:\Jurnal Mod 4\Jurnal Mod 4\bin\Debug\net8.0\Jurnal Mod 4.exe
+D:\Jurnal Mod 4\Jurnal Mod 4\bin\Debug\net8.0\Jurnal Mod 4.deps.json
+D:\Jurnal Mod 4\Jurnal Mod 4\bin\Debug\net8.0\Jurnal Mod 4.runtimeconfig.json
+D:\Jurnal Mod 4\Jurnal Mod 4\bin\Debug\net8.0\Jurnal Mod 4.dll
+D:\Jurnal Mod 4\Jurnal Mod 4\bin\Debug\net8.0\Jurnal Mod 4.pdb
+D:\Jurnal Mod 4\Jurnal Mod 4\obj\Debug\net8.0\Jurnal Mod 4.dll
+D:\Jurnal Mod 4\Jurnal Mod 4\obj\Debug\net8.0\refint\Jurnal Mod 4.dll
+D:\Jurnal Mod 4\Jurnal Mod 4\obj\Debug\net8.0\Jurnal Mod 4.pdb
+D:\Jurnal Mod 4\Jurnal Mod 4\obj\Debug\net8.0\Jurnal Mod 4.genruntimeconfig.cache
+D:\Jurnal Mod 4\Jurnal Mod 4\obj\Debug\net8.0\ref\Jurnal Mod 4.dll
